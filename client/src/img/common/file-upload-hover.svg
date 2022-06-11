@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
-    <title>icon/file-upload-hover</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="icon/file-upload-hover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Path-4" stroke="#C5B4D4" points="15.7470123 4 19.5737958 7.82678344 19.5737958 21.9358388 7 21.9358388 7 4"></polygon>
-        <polyline id="Path-5" stroke="#C5B4D4" points="19.5718455 7.39771838 16 7.39771838 16 4"></polyline>
-        <polygon id="Path-6" stroke="#C5B4D4" fill="#FFFFFF" points="15.6817276 13.1268616 9.55486607 7 9.55486607 11.0634308 3.56577785 11.0634308 3.56577785 15.2675564 9.55486607 15.2675564 9.55486607 19"></polygon>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" version="1.1" viewBox="0 0 26 26"><title>icon/file-upload-hover</title><desc>Created with Sketch.</desc><g id="icon/file-upload-hover" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><polygon id="Path-4" stroke="#C5B4D4" points="15.747 4 19.574 7.827 19.574 21.936 7 21.936 7 4"/><polyline id="Path-5" stroke="#C5B4D4" points="19.572 7.398 16 7.398 16 4"/><polygon id="Path-6" fill="#FFF" stroke="#C5B4D4" points="15.682 13.127 9.555 7 9.555 11.063 3.566 11.063 3.566 15.268 9.555 15.268 9.555 19"/></g></svg>

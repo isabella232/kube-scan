@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="15px" height="7px" viewBox="0 0 15 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>Page 1</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Combo-box/collapsed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-97.000000, -9.000000)" stroke-linecap="square">
-        <g id="Group-2" transform="translate(10.000000, 3.000000)" stroke="#795CA0">
-            <polyline id="Page-1" points="101 6 94.5 13 88 6"></polyline>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="7" version="1.1" viewBox="0 0 15 7"><title>Page 1</title><desc>Created with Sketch.</desc><g id="Combo-box/collapsed" fill="none" fill-rule="evenodd" stroke="none" stroke-linecap="square" stroke-width="1" transform="translate(-97.000000, -9.000000)"><g id="Group-2" stroke="#795CA0" transform="translate(10.000000, 3.000000)"><polyline id="Page-1" points="101 6 94.5 13 88 6"/></g></g></svg>

@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>plus-normal</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="plus-normal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M6,0 L6,12" id="Line" stroke="#C5B4D4" fill="#FFFFFF" fill-rule="nonzero"></path>
-        <path d="M0,6 L12,6" id="Line" stroke="#C5B4D4" fill="#FFFFFF" fill-rule="nonzero"></path>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" version="1.1" viewBox="0 0 12 12"><title>plus-normal</title><desc>Created with Sketch.</desc><g id="plus-normal" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><path id="Line" fill="#FFF" fill-rule="nonzero" stroke="#C5B4D4" d="M6,0 L6,12"/><path id="Line" fill="#FFF" fill-rule="nonzero" stroke="#C5B4D4" d="M0,6 L12,6"/></g></svg>

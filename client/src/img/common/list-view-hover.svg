@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>icon/list-hover</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="icon/list-hover" stroke="#C5B4D4">
-            <g id="Group" transform="translate(3.000000, 5.000000)">
-                <path d="M0,0.5 L19,0.5" id="Line"></path>
-                <path d="M0,7.5 L19,7.5" id="Line-Copy"></path>
-                <path d="M0,14.5 L19,14.5" id="Line-Copy-2"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" version="1.1" viewBox="0 0 25 25"><title>icon/list-hover</title><desc>Created with Sketch.</desc><g id="Symbols" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="icon/list-hover" stroke="#C5B4D4"><g id="Group" transform="translate(3.000000, 5.000000)"><path id="Line" d="M0,0.5 L19,0.5"/><path id="Line-Copy" d="M0,7.5 L19,7.5"/><path id="Line-Copy-2" d="M0,14.5 L19,14.5"/></g></g></g></svg>
